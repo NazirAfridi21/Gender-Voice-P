@@ -26,7 +26,11 @@ SECRET_KEY = 'django-insecure-=p#!g#+js%*%k8wtp#&pi=quy$+k-akbv$vzy-&172lq1om6u6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
+<<<<<<< HEAD
 ALLOWED_HOSTS = ['voice-prediction.herokuapp.com', '127.0.0.1']
+=======
+ALLOWED_HOSTS = ['gendervoice123.com', '127.0.0.1']
+>>>>>>> ffe01e664db11c28423cbe8797c13f238962191d
 
 
 # Application definition
